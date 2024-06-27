@@ -1,4 +1,4 @@
-# Data Visualization
+# Data Analysis and Visualization
 This repo contains two R markdown notebooks:
 - 1.cleanDataReport.html: Show cases the data cleaning steps taken using R in order to prepare a dataset for data analysis and visualization. 
 - 2.DataVisualization.html: Presents some Exploratory Data Analysis (EDA) and visualization of a diabetes dataset in Jordan (the dataset is private, however I can try to share it to those interested if the owner grants permission).
