@@ -6,4 +6,4 @@ This repo contains two R markdown notebooks:
 Sample visual using the R package ggPlot2:
 ![image](https://github.com/mohammad-awad-ds/DataVisualization/assets/64756947/a2f2e4d6-57f9-43f2-99e6-df918bab0623)
 
-For more details on the analysis and additional insightful visualizations feel free to check the notebooks in this repo. 
+For more details on the analysis and additional insightful visualizations feel free to check the PDF notebooks in this repo, or by downloading and opening the html files. 
